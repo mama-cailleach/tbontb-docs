@@ -4,5 +4,19 @@ theme: just-the-docs
 
 url: https://mama-cailleach.github.io/tbontb-docs
 
+
 # aux_links:
 # Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# side bar
+nav:
+  - title: Home
+    url: /
+  - title: Double Double Stats And Trouble
+    url: /pages/blog/home.md
+  - title: Database
+    url: /pages/database/home.md
+  - title: Dashboard
+    url: /pages/dashboard/home.md
+
+
